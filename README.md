@@ -1,4 +1,4 @@
-# Hi, I’m AKZ
+# Hi, I’m akz
 
 - I'm a Software Developer
 - I enjoy learning and building things
