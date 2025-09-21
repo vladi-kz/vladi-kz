@@ -1,4 +1,4 @@
-# Hi, I’m akz
+# Hi, I’m Alien.kz
 
 - I'm a Software Developer
 - I enjoy learning and building things
